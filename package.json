@@ -1,0 +1,25 @@
+{
+  "name": "node-mysql-wrapper",
+  "version": "1.0.0",
+  "description": "Simple wrapper with additional functionality over node-mysql.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcoder/node-mysql-wrapper.git"
+  },
+  "author": "Yauheni Pakala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wcoder/node-mysql-wrapper/issues"
+  },
+  "homepage": "https://github.com/wcoder/node-mysql-wrapper#readme",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  }
+}
