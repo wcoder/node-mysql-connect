@@ -1,6 +1,6 @@
 {
   "name": "node-mysql-connect",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simple wrapper with additional functionality over node-mysql.",
   "main": "lib/index.js",
   "directories": {
